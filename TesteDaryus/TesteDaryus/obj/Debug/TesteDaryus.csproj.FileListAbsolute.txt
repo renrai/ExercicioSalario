@@ -1,0 +1,8 @@
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Debug\TesteDaryus.exe.config
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Debug\TesteDaryus.exe
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Debug\TesteDaryus.pdb
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\obj\Debug\TesteDaryus.csprojResolveAssemblyReference.cache
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\obj\Debug\TesteDaryus.exe
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\obj\Debug\TesteDaryus.pdb
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Debug\nunit.framework.dll
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Debug\nunit.framework.xml

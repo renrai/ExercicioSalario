@@ -1,0 +1,7 @@
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Release\TesteDaryus.exe.config
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Release\TesteDaryus.exe
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Release\TesteDaryus.pdb
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\obj\Release\TesteDaryus.exe
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\obj\Release\TesteDaryus.pdb
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Release\nunit.framework.dll
+c:\users\rajano\documents\visual studio 2015\Projects\TesteDaryus\TesteDaryus\bin\Release\nunit.framework.xml
